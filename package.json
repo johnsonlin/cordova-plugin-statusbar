@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-statusbar",
+  "name": "cordova-plugin-statusbar-sparkle",
   "version": "2.4.3",
-  "description": "Cordova StatusBar Plugin",
+  "description": "Cordova StatusBar Plugin for Sparkle",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-statusbar",
+    "id": "cordova-plugin-statusbar-sparkle",
     "platforms": [
       "android",
       "ios",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-statusbar"
+    "url": "https://github.com/johnsonlin/cordova-plugin-statusbar"
   },
   "bugs": {
-    "url": "https://github.com/apache/cordova-plugin-statusbar/issues"
+    "url": "https://github.com/johnsonlin/cordova-plugin-statusbar/issues"
   },
   "keywords": [
     "cordova",

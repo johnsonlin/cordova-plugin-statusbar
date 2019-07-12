@@ -21,10 +21,10 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-statusbar"
+    id="cordova-plugin-statusbar-sparkle"
     version="2.4.3">
     <name>StatusBar</name>
-    <description>Cordova StatusBar Plugin</description>
+    <description>Cordova StatusBar Plugin for Sparkle</description>
     <license>Apache 2.0</license>
     <keywords>cordova,statusbar</keywords>
 
